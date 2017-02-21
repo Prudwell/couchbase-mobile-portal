@@ -1,11 +1,11 @@
 - title: Getting Started
   path: installation/index.html
   items:
-    - title: iOS
+    - title: iOS/macOS/tvOS
       path: installation/ios/index.html
     - title: Android
       path: installation/android/index.html
-    - title: .NET
+    - title: .NET/Xamarin
       path: installation/net/index.html
     - title: Java
       path: installation/java/index.html
