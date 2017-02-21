@@ -47,6 +47,7 @@ The following libraries are available.
 |`com.couchbase.lite:couchbase-lite-java-listener:{{site.package_version}}`|To access the database through HTTP (often used for hybrid development and peer-to-peer sync).|
 |`com.couchbase.lite:couchbase-lite-android-forestdb:{{site.package_version}}`|To use the ForestDB as storage type.|
 |`com.couchbase.lite:couchbase-lite-android-sqlcipher:{{site.package_version}}`|To enable encryption on SQLite databases.|
+|`com.couchbase.lite:couchbase-lite-java-javascript:{{site.package_version}}`|JavaScript view (map/reduce) engine for the REST API.|
 
 #### Supported architectures
 
