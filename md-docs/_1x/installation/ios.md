@@ -6,7 +6,9 @@ permalink: installation/ios/index.html
 
 ## Add Couchbase Lite to your app
 
-### Frameworks (iOS & tvOS)
+### Frameworks
+
+#### iOS & tvOS
 
 1. [Download Couchbase Lite](http://www.couchbase.com/nosql-databases/downloads#couchbase-mobile) for the platform your app is targeting.
 2. Unzip the file.
@@ -29,7 +31,7 @@ Couchbase Lite requires additional frameworks and libraries for building an app.
     libc++.dylib
     ```
 
-### Frameworks (macOS)
+#### macOS
 
 For a macOS target, you'll need to make sure the framework is copied to your app's bundle. Follow the steps below.
 
@@ -41,6 +43,8 @@ For a macOS target, you'll need to make sure the framework is copied to your app
     ![](../img/ios-copy-files-phase.png)
 6. Set the phase's destination to **Frameworks**.
 7. Press the **+** button below the phases' file list and select CouchbaseLite.framework to add it.
+
+#### Available frameworks
 
 ### Cocoapods
 

@@ -8,12 +8,12 @@ permalink: installation/net/index.html
 
 ### NuGet
 
-1. In Visual Studio or Xamarin Studio, right-click on the desired project and select the menu to add a Nuget dependency.
+1. In Visual Studio, right-click on the desired project and select the menu to add a Nuget dependency.
 
-    <img src="../img/vs-nuget.png" class=center-image />
+    <img src="../img/vs-nuget.png" width="300px" style="margin: 0 auto;display: block;"/>
 
 2. Search for 'Couchbase Lite' and select the latest version of the **Couchbase.Lite** package.
-3. Once Couchbase Lite is installed you can run the target with Couchbase Lite as a dependency.
+3. Once Couchbase Lite is installed you can run the project with Couchbase Lite as a dependency.
 
 #### Available packages
 
